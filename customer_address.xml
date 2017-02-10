@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+    <address>
+        <city>Zeist</city>
+        <street>Hoog Kanje 18</street>
+        <zip>3708DJ</zip>
+    </address>
+    <dateOfBirth>20-10-1993</dateOfBirth>
+    <name>Kachun</name>
+</customer>
