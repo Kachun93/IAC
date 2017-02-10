@@ -31,7 +31,7 @@ public class JaxbMain1 {
 
             jaxbMarshaller.marshal(customer, file);
             jaxbMarshaller.marshal(customer, System.out);
-
+// hoi tan//
         } catch (JAXBException e) {
             e.printStackTrace();
         }
